@@ -1,14 +1,14 @@
 #Profile
 Java Developer with 2+ years of experience in the complete software development lifecycle, including design, development, implementation, and deployment of scalable and efficient applications. Proficient in building robust solutions using Java, Python, SQL, HTML, CSS, PHP, MongoDB, and modern frameworks like Spring Boot and Swing. Experienced in using tools like MySQL Server, Oracle SQL Developer, and Informatica PowerCenter for database management and data integration. Familiar with Java Streams, Reactive Programming, and multi-threading for high-performance application development. Capable of crafting interactive front-end solutions and backend systems to meet diverse project requirements while collaborating effectively with cross-functional teams.
 
-Technical Skills
-Programming Languages Java, Python, Sql, .Net
-Frameworks Spring (Dependency Injection, Spring MVC, Spring Core, Spring Context, Spring AOP, Spring DAO, Spring IOC, Spring JDBC), Swing
-Relational Databases MySQL, and Oracle Database
-IDE Tools Spring Tool Suite 4, Eclipse, IntelliJ, Net Beans, and Visual Studio Code
-Methodologies Agile, Scrum and Waterfall
-Build Tools Ant and Maven
-Database Tools MySQL server, Oracle sql developer, Informatica PowerCenter and MySQL WorkBench
+## Technical Skills
+### Programming Languages: Java, Python, Sql, .Net
+### Frameworks: Spring (Dependency Injection, Spring MVC, Spring Core, Spring Context, Spring AOP, Spring DAO, Spring IOC, Spring JDBC), Swing
+### Relational Databases: MySQL, and Oracle Database
+### IDE Tools: Spring Tool Suite 4, Eclipse, IntelliJ, Net Beans, and Visual Studio Code
+Methodologies: Agile, Scrum and Waterfall
+### Build Tools: Ant and Maven
+### Database Tools: MySQL server, Oracle sql developer, Informatica PowerCenter and MySQL WorkBench
 
 #Education
 Master of Science in Information Systems, Northwest Missouri State University
